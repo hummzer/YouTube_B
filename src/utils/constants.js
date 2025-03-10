@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
+export const demoThumbnailUrl = 'https://images.wallpapersden.com/image/download/miles-morales-gaming-2022-hd_bW1oamaUmZqaraWkpJRmbmdlrWZlbWU.jpg';
+export const demoChannelUrl = '/HMYFS80jlg0';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoChannelTitle = 'Babu Gaming Hub';
+export const demoVideoTitle = 'Spiderman Miles Morales Gameplay';
+export const demoProfilePicture = 'https://i.pinimg.com/280x280_RS/77/a9/6e/77a96e16a4a516233a975bfacfdc3b8c.jpg'
